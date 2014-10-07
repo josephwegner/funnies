@@ -39,14 +39,14 @@ https://i.imgflip.com/af5u7.jpg
 ![BOOM HEADSHOT](https://i.imgflip.com/af5u7.jpg)
 
 ## Taylor Swift
-https://i.imgflip.com/akgtb.jpg
+https://i.imgflip.com/cucgm.jpg
 
-![Taylor Swift](https://i.imgflip.com/akgtb.jpg)
+![Taylor Swift](https://i.imgflip.com/cucgm.jpg)
 
 ## Office Space
-https://i.imgflip.com/alj7u.jpg
+https://i.imgflip.com/cucj4.jpg
 
-![Office Space](https://i.imgflip.com/alj7u.jpg)
+![Office Space](https://i.imgflip.com/cucj4.jpg)
 
 ## Craig Ulliott
 https://i.imgflip.com/coi6q.jpg
