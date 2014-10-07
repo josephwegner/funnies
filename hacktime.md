@@ -9,46 +9,46 @@
 - [Craig Ulliott](#craig-ulliott)
 
 ## Braveheart
-https://i.imgflip.com/9jlrr.jpg
+https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_braveheart.jpg
 
-![Braveheart](https://i.imgflip.com/9jlrr.jpg) 
+![Braveheart](https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_braveheart.jpg) 
 
 ## Ron Burgundy
-https://i.imgflip.com/9jlsd.jpg
+https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_ronburgundy.jpg
 
-![Ron Burgundy](https://i.imgflip.com/9jlsd.jpg)
+![Ron Burgundy](https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_ronburgundy.jpg)
 
 ## Game of Thrones
-https://i.imgflip.com/9jlsq.jpg
+https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_gameofthrones.jpg
 
-![Game of Thrones](https://i.imgflip.com/9jlsq.jpg)
+![Game of Thrones](https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_gameofthrones.jpg)
 
 ## 300
-https://i.imgflip.com/9jlta.jpg
+https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_300.jpg
 
-![300](https://i.imgflip.com/9jlta.jpg)
+![300](https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_300.jpg)
 
 ## Anchorman Eric
-https://i.imgflip.com/9hxoo.jpg
+https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_anchormaneric.jpg
 
-![Anchorman Eric](https://i.imgflip.com/9hxoo.jpg)
+![Anchorman Eric](https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_anchormaneric.jpg)
 
 ## BOOM HEADSHOT
-https://i.imgflip.com/af5u7.jpg
+https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_boomheadshot.jpg
 
-![BOOM HEADSHOT](https://i.imgflip.com/af5u7.jpg)
+![BOOM HEADSHOT](https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_boomheadshot.jpg)
 
 ## Taylor Swift
-https://i.imgflip.com/cucgm.jpg
+https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_taylorswift.jpg
 
-![Taylor Swift](https://i.imgflip.com/cucgm.jpg)
+![Taylor Swift](https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_taylorswift.jpg)
 
 ## Office Space
-https://i.imgflip.com/cucj4.jpg
+https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_officespace.jpg
 
-![Office Space](https://i.imgflip.com/cucj4.jpg)
+![Office Space](https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_officespace.jpg)
 
 ## Craig Ulliott
-https://i.imgflip.com/coi6q.jpg
+https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_craigulliott.jpg
 
-![Craig Ulliott](https://i.imgflip.com/coi6q.jpg)
+![Craig Ulliott](https://raw.githubusercontent.com/josephwegner/funnies/master/images/ht_craigulliott.jpg)
